@@ -6,7 +6,7 @@
 <img width="648" height="708" alt="image" src="https://github.com/user-attachments/assets/2e9574f2-41d1-4edd-9452-a6b702b2673c" />
 
 
-#Terminal Example:
+# Terminal Example:
 <img width="378" height="394" alt="image" src="https://github.com/user-attachments/assets/0a6ce139-e514-4104-8ca8-b776d18bd4b9" />
 
 -- Justin Isaraphanich 2025
